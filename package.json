@@ -5,7 +5,7 @@
   "homepage": "https://jdfxx.github.io/fhagno-portfolio-app/",
   "dependencies": {
     "@emotion/core": "^10.0.10",
-    "node-sass": "^4.11.0",
+    "node-sass": "^9.0.0",
     "react": "next",
     "react-animated-css": "^1.0.4",
     "react-dom": "next",
