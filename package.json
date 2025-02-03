@@ -2,7 +2,7 @@
   "name": "fhagno-portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://filiphagno.pl",
+  "homepage": "https://jdfxx.github.io/fhagno-portfolio-app/",
   "dependencies": {
     "@emotion/core": "^10.0.10",
     "node-sass": "^4.11.0",
